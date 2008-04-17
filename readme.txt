@@ -1,6 +1,6 @@
 ﻿=== Is Subpage Of ===
 Contributors: Alphawolf
-Donate link: http://www.schloebe.de/
+Donate link: http://www.schloebe.de/donate/
 Tags: subpage, child, plugin
 Requires at least: 2.1
 Tested up to: 2.5
