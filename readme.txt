@@ -10,7 +10,7 @@ A conditional plugin that determines if the current page is a subpage of the pas
 
 == Description ==
 
-Is Subpage Of is a simple Wordpress conditional plugin that determines if the executing page is a subpage of the passed pageID. Helpful to show content on certain document trees only.
+Is Subpage Of is a simple Wordpress conditional plugin that determines if the executing page is a subpage of the given page ID. Helpful to show content on certain document trees only.
 
 [See plugin homepage for more details](http://www.schloebe.de/wordpress/is-subpage-of-plugin/ "See plugin homepage for more details")
 
