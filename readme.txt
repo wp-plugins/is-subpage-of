@@ -27,4 +27,4 @@ None.
 
 == Screenshots ==
 
-1. None
+1. None.
