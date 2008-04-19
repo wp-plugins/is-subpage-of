@@ -1,4 +1,4 @@
-﻿=== Is Subpage Of ===
+=== Is Subpage Of ===
 Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: subpage, child, plugin
@@ -24,7 +24,3 @@ None.
 1. Upload the folder is-subpage-of/ to your /wp-content/plugins/ folder.
 1. Activate the plugin from your Wordpress admin panel.
 1. Installation finished.
-
-== Screenshots ==
-
-1. None
