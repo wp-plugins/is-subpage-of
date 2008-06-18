@@ -14,6 +14,8 @@ Is Subpage Of is a simple Wordpress conditional plugin that determines if the ex
 
 [See plugin homepage for more details](http://www.schloebe.de/wordpress/is-subpage-of-plugin/)
 
+**Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
+
 == Frequently Asked Questions ==
 
 None.
