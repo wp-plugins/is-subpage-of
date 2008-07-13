@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: subpage, child, plugin
 Requires at least: 2.1
-Tested up to: 2.5
+Tested up to: 2.6
 Stable tag: trunk
 
 A conditional plugin that determines if the current page is a subpage of the passed page ID.
