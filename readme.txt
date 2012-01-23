@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: subpage, child, plugin
 Requires at least: 2.1
-Tested up to: 2.8
+Tested up to: 3.0
 Stable tag: trunk
 
 A conditional plugin that determines if the current page is a subpage of the passed page ID.
@@ -14,8 +14,7 @@ Is Subpage Of is a simple Wordpress conditional plugin that determines if the ex
 
 [See plugin homepage for more details](http://www.schloebe.de/wordpress/is-subpage-of-plugin/)
 
-**- Developer on Google+: https://plus.google.com/100776016153395792354
-- Developer on Twitter: http://twitter.com/wpseek**
+[Developer on Google+](https://plus.google.com/100776016153395792354 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
 
 **Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
 
