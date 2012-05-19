@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Is Subpage Of
-Version: 0.7
+Version: 0.7.1
 Plugin URI: http://www.schloebe.de/wordpress/is-subpage-of-plugin/
 Description: A conditional plugin that determines if the executing page is a subpage of the passed pageID.
 Author: Oliver Schl&ouml;be
 Author URI: http://www.schloebe.de/
 */
 
-/*  Copyright 2007  Oliver Schlöbe  (email : webmaster@schloebe.de)
+/*  Copyright 2007-2012 Oliver SchlÃ¶be (email : scripts@schloebe.de)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
